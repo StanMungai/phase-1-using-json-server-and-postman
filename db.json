@@ -1,0 +1,63 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Example Article",
+      "content": "This is an example"
+    },
+    {
+      "id": 2,
+      "title": "Second Article",
+      "content": "This is also an example"
+    },
+    {
+      "title": "Third Article",
+      "content": "Another example",
+      "id": 3
+    },
+    {
+      "eplTeams": [
+        "Chelsea",
+        "Arsenal",
+        "Liverpool",
+        "Manchesters"
+      ],
+      "laligaTeams": [
+        "Barcelona",
+        "Real Madrid",
+        "Sevilla"
+      ],
+      "serieaTeams": [
+        "Juventus",
+        "AC Milan",
+        "Napoli"
+      ],
+      "id": 4
+    },
+    {
+      "eplTeams": [
+        "Chelsea",
+        "Arsenal",
+        "Liverpool",
+        "Manchesters"
+      ],
+      "laligaTeams": [
+        "Barcelona",
+        "Real Madrid",
+        "Sevilla"
+      ],
+      "serieaTeams": [
+        "Juventus",
+        "AC Milan",
+        "Napoli"
+      ],
+      "cars": {
+        "USA": "Aston Martin",
+        "Germany": "Mercedes",
+        "Italy": "Ferrari",
+        "Japan": "Toyota"
+      },
+      "id": 5
+    }
+  ]
+}
